@@ -1,0 +1,5 @@
+# This repository is public: source media (screen recordings, voice-over, clips) and renders stay local.
+out/
+fable-seo/assets/clips/
+fable-seo/assets/img/
+fable-seo/audio/*.wav
