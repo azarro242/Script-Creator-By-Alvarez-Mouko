@@ -3,3 +3,6 @@ out/
 fable-seo/assets/clips/
 fable-seo/assets/img/
 fable-seo/audio/*.wav
+meta-claude/assets/clips/
+meta-claude/assets/img/
+meta-claude/audio/*.wav
